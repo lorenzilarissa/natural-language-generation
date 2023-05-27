@@ -15,7 +15,7 @@ The goal of this project is to explore the capabilities of AI language models in
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/ai-text-generation.git`
+1. Clone the repository: `[git clone https://github.com/your-username/ai-text-generation.git](https://github.com/lorenzilarissa/natural-language-generation)`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the main script: `python main.py`
 
